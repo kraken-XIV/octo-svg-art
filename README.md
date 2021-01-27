@@ -1,6 +1,6 @@
-# CryptoPepes SVG repository
+# octo.fi x Cryptopepes SVG repository
 
-This repository functions as source for the CryptoPepes art pipeline.
+This repository functions as source for the octo.fi x CryptoPepes art pipeline.
 
 After preprocessing each SVG part is converted into a template,
 to be used for visualization of the look of newly born pepes,
